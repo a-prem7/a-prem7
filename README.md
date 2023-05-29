@@ -19,3 +19,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+***
+
+### :man_technologist: About Me :
+As a software engineer, I am a passionate problem solver with a deep love for coding and creating innovative solutions. With a solid foundation in various programming languages and technologies, I thrive in tackling complex challenges and transforming ideas into functional software applications. 
+***
+
+### :hammer_and_wrench: Languages and Tools :
+![My Skills](https://skillicons.dev/icons?i=html,js,css,express,nodejs,react,mongo,scss,bootstrap,python,django,postgres)
